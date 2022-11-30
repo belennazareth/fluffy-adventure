@@ -28,7 +28,7 @@ def sesion():
                 password = passwd)
 
             cursor = connection.cursor()
-            cursor.execute("select deptno from emp")
+            cursor.execute("select * from emp")
             row = cursor.fetchall()        
             return (str(row))
 
