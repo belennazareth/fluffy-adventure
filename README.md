@@ -18,6 +18,6 @@ https://pynative.com/python-postgresql-select-data-from-table/
 
 https://www.kawaiithings.shop/2020/10/caritas-de-mal-humor-enfado.html
 
-- Otros importantes:
+- Otros IMPORTANTES:
 
 https://ottershell.vercel.app/docs/Extras/ENTRA_AQUI
