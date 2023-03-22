@@ -2,7 +2,6 @@
 
 Aplicación web sencilla para la base de datos en postgres bien bonita.
 
-## Bibliografía
 
 ## Funcionamiento
 
@@ -21,6 +20,9 @@ Si se introduce un usuario existente en la base de datos aparecerá la consulta 
 En cambio si no aparece saltará la excepción con el error:
 
 ![img](/images/fluffy-3.png)
+
+
+## Bibliografía
 
 - Recursos para la app.py:
 
